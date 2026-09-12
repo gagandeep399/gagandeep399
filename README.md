@@ -9,7 +9,7 @@
 Machine Learning & Data Science projects using Python, including Loan Prediction and Calories Burn Prediction.
 
 🌱 Currently learning:<br>
-Advanced Machine Learning, Flask & Model Deployment
+Machine Learning, Flask & Model Deployment
 
 💬 Ask me about:<br>
 Python, Machine Learning, SQL, R, NumPy, Pandas & Matplotlib
